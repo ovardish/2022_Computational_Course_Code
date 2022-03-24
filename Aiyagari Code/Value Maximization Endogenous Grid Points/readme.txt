@@ -15,6 +15,8 @@ solveHH_EGM.m: function, solves HH problem by endogenous grid method
 
 getDist_continuous.m: function, computes distribution over state-space based on continuous asset policy
 	- reference: Young (2010, Journal of Economic Dynamics and Control)
+	
+getDist_method_2.m: function, finds fixed point of a distribution with method learned with a slide
 
 solve_trans.m: function, computes transitional dynamics to an MIT productivity shock
 	- updating of interest rate path based on extended path approach
