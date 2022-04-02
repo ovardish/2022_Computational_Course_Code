@@ -1,0 +1,16 @@
+*.mod
+*.obj
+Output
+*.exe
+.vs
+*enchmark
+*.txt
+*.m
+*.sh
+*.sln
+*.vfproj
+*.u2d
+*.manifest
+*.htm
+*.pdb
+*.jpg
