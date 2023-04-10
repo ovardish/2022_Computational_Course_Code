@@ -2,7 +2,7 @@
 %% Solving steady state of the Aiyagari model                                %%
 %% Discrete Value Function Iteration                                         %%
 %% Advanced Macro; Econ 526; Instructor Oliko Vardishvili                    %%
-%% Contact for typos: oliko.vardishvili@yale.edu                             %%
+%% Contact for typos: oliko.vardishvili@uci.edu                              %%
 %% Parameters taken from S&L2012                                             %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear all

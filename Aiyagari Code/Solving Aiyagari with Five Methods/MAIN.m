@@ -13,7 +13,7 @@
 % speed (especially VFIc and PFI). Suggestions to further improve these
 % codes are very welcome.
 
-% Please direct errors or questions to lukas.nord@eui.eu.
+% Please direct errors or questions to oliko.vardishvili@uci.edu.
 
 clear;
 close all;

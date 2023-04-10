@@ -1,6 +1,6 @@
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Solving Steady State of the Aiyagari model                         %%
-%% Contact for typos: oliko.vardishvili@yale.edu                      %%
+%% Contact for typos: oliko.vardishvili@uci.edu                       %%
 %% Benchmark code prepared by Lukas Nord, EUI  -- November 2021       %%
 %%                                                                    %%
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -17,7 +17,7 @@
 % accessible as possible and are not necessarily optimized for maximum
 % speed. Suggestions to further improve the codes are very welcome.
 
-% Please direct errors or questions to lukas.nord@eui.eu.
+% Please direct errors or questions to oliko.vardishvili@uci.edu .
 
 clear;
 close all;

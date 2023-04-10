@@ -2,7 +2,7 @@
 %% Solving steady state of the Aiyagari model                                                  %%%
 %% Using Endogeneous Grid Points                                                               %%%
 %% Advanced Macro; Econ 526; Instructor Oliko Vardishvili                                      %%%
-%% Contact for typos: oliko.vardishvili@yale.edu                                               %%%
+%% Contact for typos: oliko.vardishvili@uci.edu                                               %%%
 %% Initial code was provided Lukas Nord, a Phd Candidate, European University Institute        %%%      
 %% We are grateful to him : )                                                                  %%%                                       
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

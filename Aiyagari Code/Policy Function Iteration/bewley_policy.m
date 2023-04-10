@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Aiyagari's model with Policy Function Iterations
-% contact for typos: Oliko.Vardishvili@yale.edu
+% contact for typos: Oliko.Vardishvili@uci.edu
 % Codes based on S&L2012
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
