@@ -43,12 +43,12 @@ clc;
     param.b               = -2;              % exogenous borrowing limit
     param.B               = 20;             % upper bounnd on assets
     grid.k                = linspace(param.b,param.B,param.nkap); % equally spaced grid
-    %grid.k                = param.b + linspace(0,1,param.nkap).^2*(param.B-param.b); % grid more dense at lower end, increase exponents to increase mass at lower end
+  % grid.k                = param.b + linspace(0,1,param.nkap).^2*(param.B-param.b); % grid more dense at lower end, increase exponents to increase mass at lower end
   
 % discretizing AR(1) for income   
     % the process we approximate: log(s_t) = rho*log(s_t-1)+sigmaint*sqrt(1-rho^2)*error_t
     param.nz              = 5;                % number of discretized income states
-    param.rho             = 0.2;              % first-order autoregressive coefficient of income
+    param.rho             = 0.6;              % first-order autoregressive coefficient of income
     param.sigmaLR         = 0.4;              % long-run standard deviation of the income process
     param.sigma           = param.sigmaLR*sqrt(1-param.rho^2); % standard deviation of error_t
     
